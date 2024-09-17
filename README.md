@@ -320,9 +320,9 @@
 2. **音乐专题**：
    1. **Vocaloid 子专题**：
       1. `GGN_2015` 目前**最喜欢**的一首日 V 是香农的**死别**：
-         1. 参考链接：【MV「死別」 / Shannon feat. GUMI】 https://www.bilibili.com/video/BV1oC411572T/?share_source=copy_web&vd_source=3e84160954687acaa86344284758d092
+         1. 参考链接：【MV「死別」 / Shannon feat. GUMI】 https://www.bilibili.com/video/BV1oC411572T/
       2. `GGN_2015` 目前**最喜欢**的一首中 V 是 ilem 的**普通的 disco**：
-         1. 参考链接：【洛天依，言和原创《普通DISCO》】 https://www.bilibili.com/video/BV1zs411S7sz/?share_source=copy_web&vd_source=3e84160954687acaa86344284758d092
+         1. 参考链接：【洛天依，言和原创《普通DISCO》】 https://www.bilibili.com/video/BV1zs411S7sz/
 3. **美术专题**：
    1. **抽象派画作子专题**：
       1. `GGN_2015` 目前**最喜欢**的抽象派画作是蒙德里安的**红、黄、蓝的构成**。
@@ -346,4 +346,6 @@
       3. `Celeste`：蔚蓝，赛莱斯特山，综合了解谜和平台跳跃的经典之作。
          1. `cppascalinux` 和 `OldCaptainWZJ` 是 `GGN_2015` 入门 `Celeste` 的老师。
          2. `GGN_2015` 在 `Celeste` 这款游戏中水平不高，但很喜欢这个游戏的**解谜设计与美术、音乐风格**。
+         3. `OldCaptainWZJ` 对 `Celeste` 的评价：
+            1. 参考链接：https://steamcommunity.com/id/weinima233/recommended/504230/
 
