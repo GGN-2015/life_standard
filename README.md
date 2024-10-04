@@ -331,7 +331,7 @@
 2. **音乐专题**：
    1. **Vocaloid 子专题**：
       1. `GGN_2015` 目前**最喜欢**的一首日 V 是香农的**死别**：
-         1. 参考链接：【MV「死別」 / Shannon feat. GUMI】 https://www.bilibili.com/video/BV1oC411572T/
+         1. 参考链接：【Bereavement / Shannon feat. GUMI】 https://www.youtube.com/watch?v=6Fm-wW_57FY
       2. `GGN_2015` 目前**最喜欢**的一首中 V 是 ilem 的**普通的 disco**：
          1. 参考链接：【洛天依，言和原创《普通DISCO》】 https://www.bilibili.com/video/BV1zs411S7sz/
 3. **美术专题**：
