@@ -350,6 +350,14 @@
          1. 参考链接：【Bereavement / Shannon feat. GUMI】 https://www.youtube.com/watch?v=6Fm-wW_57FY
       2. `GGN_2015` 目前**最喜欢**的一首中 V 是 ilem 的**普通的 disco**：
          1. 参考链接：【洛天依，言和原创《普通DISCO》】 https://www.bilibili.com/video/BV1zs411S7sz/
+   2. 关于开源运动：
+      1. 推荐一首听着很不错的歌曲：Linus Said：https://www.youtube.com/watch?v=oHNKTlz1lps
+         1. 里面提到了 BDFL 的概念，即 Benevolent Dictator For Life.
+         2. 这里 `GGN_2015` 想讨论的一个问题是 “Benevolent Dictator For Life” 真的 “仁慈” 吗？
+            1. `GGN_2015` 认为不然。
+            2. `GGN_2015` 认为 BDFL 应当充分接纳与项目主旨一致的 PR 而拒绝掉一切可能会导致项目出现问题的 PR.
+            3. BDFL 肩负着让项目保持 “**一致**” 的重任，因此在合并 PR 这件事情上，一定要足够谨慎且严厉。
+            4. 不要让一个优秀的项目断送于一位 BDFL 的过分开明。
 3. **美术专题**：
    1. **抽象派画作子专题**：
       1. `GGN_2015` 目前**最喜欢**的抽象派画作是蒙德里安的**红、黄、蓝的构成**。
