@@ -391,6 +391,10 @@
             2. `GGN_2015` 认为 BDFL 应当充分接纳与项目主旨一致的 PR 而拒绝掉一切可能会导致项目出现问题的 PR.
             3. BDFL 肩负着让项目保持 “**一致**” 的重任，因此在合并 PR 这件事情上，一定要足够谨慎且严厉。
             4. 不要让一个优秀的项目断送于一位 BDFL 的过分开明。
+   3. `GGN_2015` 喜欢的一些音乐：很喜欢、每次听都会觉得很震撼
+      1. 巴赫《G 小调赋格（BWV578）》 https://www.bilibili.com/video/BV15W411H7jC、《G弦上的咏叹调》https://www.bilibili.com/video/BV16741187v6
+      2. 中岛美雪《骑在银龙的背上》 https://www.bilibili.com/video/BV1vKX6Y1Ef4
+      3. 坂本龙一《RAIN》 https://www.bilibili.com/video/BV1zK411X7UR、《圣诞快乐劳伦斯先生》https://www.bilibili.com/video/BV1oK411q7mp
 3. **美术专题**：
    1. **抽象派画作子专题**：
       1. `GGN_2015` 目前**最喜欢**的抽象派画作是蒙德里安的**红、黄、蓝的构成**。
